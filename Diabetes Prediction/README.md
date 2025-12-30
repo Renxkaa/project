@@ -1,20 +1,20 @@
 # Diabetes Prediction
 
-## 📌 Overview
+## Overview
 Diabetes Prediction is a machine learning project designed to **predict the likelihood of diabetes in individuals based on health metrics**.  
 This system uses real-world medical data to train a model that can classify whether a person is at risk of diabetes. The goal is to support early screening and awareness, especially for users without medical backgrounds.
 
 ---
 
-## 🚀 Key Features
-- ✅ Predicts diabetes risk based on input features such as glucose, BMI, age, etc.
-- 📈 Uses machine learning models for accurate classification
-- 🧠 Data preprocessing including cleaning, scaling, and validation
-- 📊 Visualizations for insights and exploratory data analysis (EDA)
+##  Key Features
+-  Predicts diabetes risk based on input features such as glucose, BMI, age, etc.
+-  Uses machine learning models for accurate classification
+-  Data preprocessing including cleaning, scaling, and validation
+-  Visualizations for insights and exploratory data analysis (EDA)
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - **Python** — Core language
 - **Pandas, NumPy** — Data manipulation
 - **Scikit-Learn** — Machine learning modeling
@@ -23,7 +23,7 @@ This system uses real-world medical data to train a model that can classify whet
 
 ---
 
-## 🧪 Machine Learning Workflow
+##  Machine Learning Workflow
 1. Load and explore dataset
 2. Preprocess data (clean missing values, scale features)
 3. Train classification models
@@ -32,7 +32,7 @@ This system uses real-world medical data to train a model that can classify whet
 
 ---
 
-## 📊 Dataset
+##  Dataset
 The data used in this project is a diabetes dataset containing health metrics of patients.  
 Features include:
 - Pregnancies
@@ -46,19 +46,19 @@ Features include:
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 The machine learning model was evaluated using standard metrics.  
 Accuracy and validation results demonstrate a capable predictor suitable for preliminary health screening.
 
 ---
 
-## 📷 Visuals / Demo
+##  Visuals / Demo
 <img width="897" height="790" alt="image" src="https://github.com/user-attachments/assets/ce6a5c8f-6ac8-44ff-a422-9fcc222659e3" />
 
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 - Applied data preprocessing techniques to real-world dataset
 - Built and tuned classification models
 - Interpreted data visualizations to improve model performance
@@ -66,5 +66,5 @@ Accuracy and validation results demonstrate a capable predictor suitable for pre
 
 ---
 
-## 📁 How to Run
+##  How to Run
 1. Clone repository  
