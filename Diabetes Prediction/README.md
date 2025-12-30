@@ -53,8 +53,8 @@ Accuracy and validation results demonstrate a capable predictor suitable for pre
 ---
 
 ## 📷 Visuals / Demo
-*(ถ้ามีภาพใส่ที่นี่)*  
-ใส่ภาพแสดงผลลัพธ์การพยากรณ์ หรือกราฟ EDA จะช่วยให้หน้า README ดูน่าสนใจมากขึ้น
+<img width="897" height="790" alt="image" src="https://github.com/user-attachments/assets/ce6a5c8f-6ac8-44ff-a422-9fcc222659e3" />
+
 
 ---
 
