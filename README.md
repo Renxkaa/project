@@ -53,11 +53,4 @@ Repository นี้รวบรวมโปรเจกต์ที่พัฒ
 
 ---
 
-##  Objective
-เพื่อแสดงความสามารถในการพัฒนาแอปพลิเคชัน  
-การแก้ปัญหา และการเรียนรู้เทคโนโลยีใหม่  
-สำหรับโอกาสฝึกงานด้าน Software / Web / AI Development
-
----
-
  *Each project contains its own source code and implementation details inside its folder.*
